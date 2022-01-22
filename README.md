@@ -4,7 +4,7 @@
 Erna Lukač
 
 # Deployed Link:
-https://ooernica.github.io/5WeekHomeworkDayPlanner/
+https://ooernica.github.io/5WeekHW-DayPlanner/
 
 # User Story
 - AS AN employee with a busy schedule
